@@ -1,4 +1,4 @@
-# Activity
+# Pulse of the City
 
 The conceptual framework of the project revolves around the interplay between human mobility and activity levels in urban spaces. The project team will investigate how mobility patterns and the urban spaces usage may be interlinked and correlate in the event of climate shocks. The project will build on prior team experience to refine the methodology for processing and analyzing mobility data to generate activity level indicators, as introduced in the [Support for Türkiye Impact Analysis](https://datapartnership.github.io/turkiye-earthquake-impact/notebooks/mobility/README.html).  
 
