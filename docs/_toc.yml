@@ -2,11 +2,9 @@ format: jb-book
 root: README
 
 parts:
-  - caption: Additional Resources
+  - caption: Monitoring Near-Time Changes in Urban Space Usage after Climate Shocks ECA Urban Resilience
     chapters:
-      - url: https://datapartnership.org
-        title: Development Data Partnership
-      - url: https://wbdatalab.org
-        title: World Bank Data Lab
-      - url: https://www.worldbank.org/en/about/unit/unit-dec
-        title: World Bank DEC
+      - file: docs/data
+  - caption: Data Products
+    chapters:
+      - file: notebooks/activity/README
