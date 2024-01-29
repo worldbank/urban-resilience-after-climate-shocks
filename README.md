@@ -16,7 +16,3 @@ To ensure the project research and analysis inform World Bank operations, the DE
 :filter: docname in docnames
 :style: unsrt
 ```
-
-## License
-
-This project is licensed under the [**World Bank Master Community License Agreement**](LICENSE).
