@@ -2,9 +2,19 @@ format: jb-book
 root: README
 
 parts:
-  - caption: Monitoring Near-Time Changes in Urban Space Usage after Climate Shocks ECA Urban Resilience
+  - caption: Monitoring Near-Time Changes in Urban Space Usage after Climate Shocks
     chapters:
       - file: docs/data
+      - file: docs/review
   - caption: Data Products
     chapters:
-      - file: notebooks/activity/README
+      - file: notebooks/mobility/README
+        sections:
+          - file: notebooks/mobility/data-quality-assessment.ipynb
+          - file: notebooks/points-of-interest/overturemaps.ipynb
+          - file: notebooks/mobility/activity.ipynb
+          #- file: notebooks/mobility/activity-BIH.ipynb
+          - file: notebooks/mobility/visits.ipynb
+          #- file: notebooks/mobility/visits-categories.ipynb
+          - file: notebooks/movement.ipynb
+          - file: docs/limitations
