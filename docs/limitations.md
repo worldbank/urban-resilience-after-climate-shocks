@@ -1,4 +1,4 @@
-(mobility-activity-limitations)=
+(limitations)=
 # Limitations
 
 This methodology represents an exploratory pilot designed to offer insights into economic conditions using alternative data sources, particularly in scenarios where traditional data is not available. However, like all data types, mobility data comes with inherent limitations and assumptions that must be considered during analysis and interpretation.
