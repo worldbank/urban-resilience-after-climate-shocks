@@ -58,4 +58,5 @@ sphinx:
         "async": "async",
     }
     suppress_warnings: ["mystnb.unknown_mime_type"]
+    html_extra_path: ['docs/extra_html']
 
